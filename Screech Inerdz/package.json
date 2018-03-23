@@ -1,0 +1,8 @@
+{
+  "name": "Screech",
+  "version": "1.0.0",
+  "description": "Discord D&D helper",
+  "main": "bot.js",
+  "author": "Brendon-Weidner",
+  "dependencies": {}
+}
